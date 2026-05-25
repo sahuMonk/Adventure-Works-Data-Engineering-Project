@@ -1,0 +1,15 @@
+{
+	"name": "adf-aw-monk",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ab2a38f8-78f8-40cd-acdc-10e75951938d",
+		"tenantId": "1eebe820-f7ce-4335-b5f5-691bd3d3d9ba"
+	}
+}
